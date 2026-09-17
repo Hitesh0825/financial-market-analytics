@@ -1,0 +1,4 @@
+[
+ {"event_id":"EVT-000001","symbol":"ABC","price":1250.50,"volume":15000,"timestamp":"2026-09-17 10:35:00"},
+ {"event_id":"EVT-000002","symbol":"XYZ","price":99.25,"volume":800,"timestamp":"2026-09-17 10:36:00"}
+]

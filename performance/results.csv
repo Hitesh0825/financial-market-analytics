@@ -1,0 +1,3 @@
+test,target_events_per_sec,actual_generation_rate,input_rate,output_rate,batch_duration_ms,consumer_lag,status
+low-load,10,,,,,,NOT EXECUTED
+high-load,1000,,,,,,NOT EXECUTED

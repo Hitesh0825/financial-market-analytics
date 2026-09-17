@@ -1,0 +1,4 @@
+Table: market_alerts
+Row key: symbol#timestamp#event_id
+Column family: alert
+Qualifiers: event_id, symbol, price, volume, average_volume, spike_ratio, alert_type, timestamp
